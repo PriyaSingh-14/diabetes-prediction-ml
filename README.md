@@ -139,6 +139,7 @@ diabetes-prediction-ml/
 ├── diabetes.csv                  # PIMA Indians Diabetes Dataset
 ├── requirements.txt              # Dependency packages list for environment setup
 └── README.md                     # Comprehensive project documentation
+```
 
 ## 12. Author
 * **Authored by:** Priya Bhadoriya
