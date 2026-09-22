@@ -140,6 +140,7 @@ diabetes-prediction-ml/
 ├── requirements.txt              # Dependency packages list for environment setup
 └── README.md                     # Comprehensive project documentation
 ```
+---
 
 ## 12. Author
 * **Authored by:** Priya Bhadoriya
