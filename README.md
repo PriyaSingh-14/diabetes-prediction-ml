@@ -97,9 +97,9 @@ The models were evaluated on the held-out test dataset ($154$ unseen patient sam
 * **Medical Risk Reduction:** In diagnostic AI, **False Negatives** represent the most critical risk (failing to diagnose a diabetic patient). Random Forest reduced False Negatives from $27$ down to $22$ while simultaneously reducing False Alarms (False Positives) from $18$ to $12$.
 * **Feature Importance Ranking:**
   1. **Glucose:** Highest predictive influence ($>27\%$ total feature weight).
-  2. **BMI:** Second most important risk indicator (~$16\%$).
-  3. **DiabetesPedigreeFunction & Age:** Moderate secondary predictive impact (~$11\% - 12\%$).
-  4. **Insulin, BloodPressure, Pregnancies, & SkinThickness:** Lower individual relative weights ($<10\%$).
+  2. **BMI:** Second most important risk indicator (~16\%).
+  3. **DiabetesPedigreeFunction & Age:** Moderate secondary predictive impact (~11\% - 12\%).
+  4. **Insulin, BloodPressure, Pregnancies, & SkinThickness:** Lower individual relative weights (<10\%).
 
 ---
 
@@ -140,7 +140,6 @@ diabetes-prediction-ml/
 ├── requirements.txt              # Dependency packages list for environment setup
 └── README.md                     # Comprehensive project documentation
 
-**12. Author**
-Authored by: Priya Bhadoriya
-Project: Supervised Machine Learning Individual Mini-Project
-Repository: https://github.com/PriyaSingh-14/diabetes-prediction-ml
+## 12. Author
+* **Authored by:** Priya Bhadoriya
+* **Repository:** https://github.com/PriyaSingh-14/diabetes-prediction-ml
